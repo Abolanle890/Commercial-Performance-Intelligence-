@@ -37,6 +37,7 @@ The channel analysis indicates a shift in the balance between store and online r
 
 ## Key Findings
 1. Revenue grew, but order value declined
+   
 | KPI | Q2 | Change vs Q1 |
 |---|---:|---:|
 | Orders | 240 | **+18.2%** |
